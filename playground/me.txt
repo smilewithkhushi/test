@@ -1,0 +1,3 @@
+Name: Khushi
+Skills: HTML, CSS, JS, Next.js, android, cloud
+Email: khushipanwar26@gmail.com
